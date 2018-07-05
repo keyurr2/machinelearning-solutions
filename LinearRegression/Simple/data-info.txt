@@ -1,0 +1,24 @@
+http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html
+
+1 - List Price Vs. Best Price for a New GMC Pickup
+
+In the following data
+X = List price (in $1000) for a GMC pickup truck
+Y = Best price (in $1000) for a GMC pickup truck
+Reference: Consumer’s Digest
+
+2 - Cricket Chirps Vs. Temperature
+
+In the following data
+X = chirps/sec for the striped ground cricket
+Y = temperature in degrees Fahrenheit
+Reference: The Song of Insects by Dr.G.W. Pierce, Harvard College Press
+
+12- Pizza Franchise
+
+In the following data
+X = annual franchise fee ($1000)
+Y = start up cost ($1000)
+for a pizza franchise
+Reference: Business Opportunity Handbook
+

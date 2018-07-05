@@ -1,0 +1,39 @@
+http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html
+
+2 - Systolic Blood Pressure Data
+The data (X1, X2, X3) are for each patient.
+X1 = systolic blood pressure
+X2 = age in years
+X3 = weight in pounds
+we will predict blood pressure based on age and weight
+
+3 - Test Scores for General Psychology
+The data (X1, X2, X3, X4) are for each student.
+X1 = score on exam #1
+X2 = score on exam #2
+X3 = score on exam #3
+X4 = score on final exam
+we will predict score on final exam for student.
+
+4 - Hollywood Movies
+The data (X1, X2, X3, X4) are for each movie
+X1 = first year box office receipts/millions
+X2 = total production costs/millions
+X3 = total promotional costs/millions
+X4 = total book sales/millions
+we will predict total book sales for movies.
+
+7 - Health
+The data (X1, X2, X3, X4, X5) are by city.
+X1 = death rate per 1000 residents
+X2 = doctor availability per 100,000 residents
+X3 = hospital availability per 100,000 residents
+X4 = annual per capita income in thousands of dollars
+X5 = State
+X6 = population density people per square mile
+we will predict population density people per square mile.
+
+ 
+
+
+

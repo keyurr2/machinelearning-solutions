@@ -1,0 +1,9 @@
+http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html
+
+2 - Systolic Blood Pressure Data
+The data (X1, X2, X3) are for each patient.
+X1 = systolic blood pressure
+X2 = age in years
+X3 = weight in pounds
+we will predict blood pressure based on age and weight
+
